@@ -1,7 +1,9 @@
 # SLSmodel
 
 1.	System requirements: 
+
 •	Require software: MATLAB
+
 •	Version that has been tested on: MATLAB R2021b on Windows 10 Enterprise 22H2
 •	The code is executable on any operating systems with any version of MATLAB installed.
 2.	Installation guide:
