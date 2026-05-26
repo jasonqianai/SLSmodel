@@ -1,6 +1,6 @@
 # SLSmodel
 
-**1.	System requirements: **
+**1.	System requirements:**
 
   •	Require software: MATLAB
   
