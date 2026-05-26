@@ -1,6 +1,6 @@
 # SLSmodel
 
-1.	System requirements: 
+**1.	System requirements: **
 
   •	Require software: MATLAB
   
@@ -9,12 +9,12 @@
   •	The code is executable on any operating systems with any version of MATLAB installed.
 
 
-2.	Installation guide:
+**2.	Installation guide:**
 
   •	No installation is required. The code is executable on MATLAB only. You need to install MATLAB first at Download and Install MATLAB - MATLAB & Simulink
 
 
-3.	Demo:
+**3.	Demo:**
 
   •	Instructions to run the data: Once the file is opened in MATLAB, click “Run”, it will run automatically.
   
@@ -23,7 +23,7 @@
   •	Expected run time for the demo code on a “normal” desktop computer: 30 seconds.
 
 
-4.	Instructions for use
+**4.	Instructions for use**
 
   •	How to run the software on your data: 
 
